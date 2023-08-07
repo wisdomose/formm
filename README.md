@@ -1,6 +1,6 @@
 ### Links
 
-- Live Site URL [here](https://formm.vercel.app)
+- Live Site URL [here](https://formm.rereceipt.cc/)
 
 ### Running the APP
 ```
