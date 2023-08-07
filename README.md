@@ -1,6 +1,12 @@
 ### Links
 
-- Live Site URL: [Add live site URL here](https://formm.vercel.app)
+- Live Site URL [here](https://formm.vercel.app)
+
+### Running the APP
+```
+yarn
+yarn dev
+```
 
 ## My process
 
