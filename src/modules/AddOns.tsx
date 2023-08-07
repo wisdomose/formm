@@ -4,7 +4,7 @@ import { BILLING } from "../types";
 import config from "../utils/config";
 
 export default function AddOns() {
-  const { updateData, updateStep, step, data } = useCheckout();
+  const { updateData, updateStep, data } = useCheckout();
 
   function submitHandler() {
     updateStep();

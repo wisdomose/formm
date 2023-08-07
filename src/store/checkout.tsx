@@ -16,7 +16,9 @@ const defaultData = {
   data: initialState,
   step: 1,
   reset: () => {},
+  // @ts-ignore
   updateData: (key: keyof typeof initialState, value: any) => {},
+  // @ts-ignore
   updateStep: (step?: number): any => {},
 };
 

@@ -13,4 +13,5 @@ yarn dev
 ### Built with
 
 - React
+- Typescript
 - TailwindCSS
